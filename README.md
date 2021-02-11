@@ -1,1 +1,10 @@
-# homework5.5
+The purpose of the project was to create a work day scheduler.
+
+I have the a html file, css file, a js file, and a readme file.
+index3.html
+script.js
+styles.css
+
+I found the moment API challenging to work with, but I got some help with tutoring, which helped me get the API and my JS coding going.
+
+
